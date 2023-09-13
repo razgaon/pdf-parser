@@ -56,7 +56,3 @@ def scrape_madry_lab():
         page_number += 1
 
     return paper_links
-
-
-print(scrape_madry_lab())
-# ['https://arxiv.org/abs/2307.10163', 'https://arxiv.org/abs/2303.14186', 'https://arxiv.org/abs/2302.07865', 'https://arxiv.org/abs/2206.14754', 'https://arxiv.org/abs/2211.12491', 'https://arxiv.org/abs/2302.06588', 'https://arxiv.org/abs/2207.05739', 'https://arxiv.org/abs/2207.02842']
