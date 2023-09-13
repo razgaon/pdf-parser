@@ -1,0 +1,177 @@
+[
+  {
+    "paper_link": "https://arxiv.org/abs/2307.10163",
+    "paper_title": "Rethinking Backdoor Attacks",
+    "blog_link": "https://gradientscience.org/rethinking-attacks/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2303.14186",
+    "paper_title": "TRAK-ing Model Behavior with Data",
+    "blog_link": "https://gradientscience.org/trak/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2302.07865",
+    "paper_title": "Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation",
+    "blog_link": "https://gradientscience.org/dataset-interfaces/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2206.14754",
+    "paper_title": "Tailored Data Augmentation to Mitigate Model Failures",
+    "blog_link": "https://gradientscience.org/failure-directions2/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2211.12491",
+    "paper_title": "ModelDiff: A Framework for Comparing Learning Algorithms",
+    "blog_link": "https://gradientscience.org/modeldiff/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2302.06588",
+    "paper_title": "Raising the Cost of Malicious AI-Powered Image Editing",
+    "blog_link": "https://gradientscience.org/photoguard/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2207.05739",
+    "paper_title": "A Data-Based Perspective on Transfer Learning",
+    "blog_link": "https://gradientscience.org/data-transfer/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2207.02842",
+    "paper_title": "When does Bias Transfer in Transfer Learning?",
+    "blog_link": "https://gradientscience.org/bias-transfer/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2206.14754",
+    "paper_title": "Distilling Model Failures as Directions in Latent Space",
+    "blog_link": "https://gradientscience.org/failure-directions/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2202.00622",
+    "paper_title": "Uncovering Brittleness with Datamodels",
+    "blog_link": "https://gradientscience.org/datamodels-2/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2204.08945",
+    "paper_title": "Missingness Bias in Model Debugging",
+    "blog_link": "https://gradientscience.org/missingness/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2202.00622",
+    "paper_title": "Predicting Predictions with Datamodels",
+    "blog_link": "https://gradientscience.org/datamodels-1/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2112.01008",
+    "paper_title": "Editing a Classifier",
+    "blog_link": "https://gradientscience.org/editing/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2110.08220",
+    "paper_title": "Combining Diverse Feature Priors",
+    "blog_link": "https://gradientscience.org/copriors/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2110.07719",
+    "paper_title": "Certified Patch Robustness Via Smoothed Vision Transformers (Part 2)",
+    "blog_link": "https://gradientscience.org/smoothed-vit/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2110.07719",
+    "paper_title": "Certified Patch Robustness Via Smoothed Vision Transformers (Part 1)",
+    "blog_link": "https://gradientscience.org/smoothing/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2106.03805",
+    "paper_title": "3DB: A Framework for Debugging Vision Models",
+    "blog_link": "https://gradientscience.org/3db/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2105.04857",
+    "paper_title": "Debuggable Deep Networks: Usage and Evaluation (Part 2)",
+    "blog_link": "https://gradientscience.org/debugging/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2105.04857",
+    "paper_title": "Debuggable Deep Networks: Sparse Linear Models (Part 1)",
+    "blog_link": "https://gradientscience.org/glm_saga/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2012.12235",
+    "paper_title": "Unadversarial Examples: Designing Objects for Robust Vision",
+    "blog_link": "https://gradientscience.org/unadversarial/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2008.04859",
+    "paper_title": "Benchmarks for Subpopulation Shift",
+    "blog_link": "https://gradientscience.org/breeds/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2007.08489",
+    "paper_title": "Transfer Learning with Adversarially Robust Models",
+    "blog_link": "https://gradientscience.org/transfer-learning/"
+  },
+  {
+    "paper_link": "http://arxiv.org/abs/2006.09994",
+    "paper_title": "Noise or Signal: The Role of Backgrounds in Image Classification",
+    "blog_link": "https://gradientscience.org/background/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2005.11295",
+    "paper_title": "From ImageNet to Image Classification",
+    "blog_link": "https://gradientscience.org/benchmarks/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/2005.09619",
+    "paper_title": "Identifying Statistical Bias in Dataset Replication",
+    "blog_link": "https://gradientscience.org/data_rep_bias/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/1906.09453",
+    "paper_title": "Robustness Beyond Security: Computer Vision Applications",
+    "blog_link": "https://gradientscience.org/robust_apps/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/1906.00945",
+    "paper_title": "Robustness Beyond Security: Representation Learning",
+    "blog_link": "https://gradientscience.org/robust_reps/"
+  },
+  {
+    "paper_link": "https://arxiv.org/abs/1905.02175",
+    "paper_title": "Adversarial Examples Are Not Bugs, They Are Features",
+    "blog_link": "https://gradientscience.org/adv/"
+  },
+  {
+    "paper_link": "",
+    "paper_title": "A Closer Look at Deep Policy Gradients (Part 3: Landscapes and Trust Regions)",
+    "blog_link": "https://gradientscience.org/policy_gradients_pt3"
+  },
+  {
+    "paper_link": "",
+    "paper_title": "A Closer Look at Deep Policy Gradients (Part 2: Gradients and Values)",
+    "blog_link": "https://gradientscience.org/policy_gradients_pt2"
+  },
+  {
+    "paper_link": "",
+    "paper_title": "A Closer Look at Deep Policy Gradients (Part 1: Intro)",
+    "blog_link": "https://gradientscience.org/policy_gradients_pt1/"
+  },
+  {
+    "paper_link": "",
+    "paper_title": "How does Batch Normalization Help Optimization?",
+    "blog_link": "https://gradientscience.org/batchnorm/"
+  },
+  {
+    "paper_link": "",
+    "paper_title": "Training Robust Classifiers (Part 2)",
+    "blog_link": "https://gradientscience.org/robust_opt_pt2/"
+  },
+  {
+    "paper_link": "",
+    "paper_title": "Training Robust Classifiers (Part 1)",
+    "blog_link": "https://gradientscience.org/robust_opt_pt1/"
+  },
+  {
+    "paper_link": "",
+    "paper_title": "A Brief Introduction to Adversarial Examples",
+    "blog_link": "https://gradientscience.org/intro_adversarial/"
+  }
+]
